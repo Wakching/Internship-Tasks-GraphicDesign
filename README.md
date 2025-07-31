@@ -21,8 +21,7 @@ Tasks
 🔗 Folder: [`Event-Promo`](./Event-Promo)
 
 
-
-### ✅ 2. Animated Product Advertisement
+ 2. Animated Product Advertisement
 - Product: Sprite
 - Focus: Animated short ad for a refreshing vibe
 - Output: One 15–30 second animated product ad with motion text
