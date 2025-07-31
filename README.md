@@ -3,17 +3,16 @@ Design internship tasks – Event Promo &amp; Product Animation
 
 This repository contains my completed design internship tasks focused on motion graphics and promotional visuals. All designs were created using Canva and licensed free-to-use assets.
 
----
 
-## 🎨 Tools Used
+
+Tools Used
 - Canva (Poster & Animation)
 - Free PNG resources (Unsplash, Freepik, etc.)
 
----
 
-## 📁 Tasks
+Tasks
 
-### ✅ 1. Event Promo Poster + Teaser
+ 1. Event Promo Poster + Teaser
 - Theme: Summer Music Fest
 - Tools: Canva
 - Assets: Palm tree illustrations, guitar PNG, vintage textures
@@ -21,7 +20,7 @@ This repository contains my completed design internship tasks focused on motion 
 
 🔗 Folder: [`Event-Promo`](./Event-Promo)
 
----
+
 
 ### ✅ 2. Animated Product Advertisement
 - Product: Sprite
