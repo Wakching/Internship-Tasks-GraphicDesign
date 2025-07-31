@@ -7,6 +7,7 @@ A beach-themed summer music festival poster with a vibrant retro look. Created u
 ---
 Teaser Video
 A 12-second teaser video that visually extends the poster theme using music, soft motion transitions, and branding.
+
 ---
 
 Tools & Assets
